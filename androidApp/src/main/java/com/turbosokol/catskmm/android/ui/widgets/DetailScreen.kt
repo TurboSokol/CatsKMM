@@ -72,7 +72,7 @@ fun DetailScreen(id: String?) {
 }
 
 fun savePictureToGallery() {
-    TODO("Not yet implemented")
+
 }
 
 
